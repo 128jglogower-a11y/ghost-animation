@@ -80,3 +80,27 @@ body {
     border-radius: 50%;
 }
 
+#spooky #body #mouth {
+    background: #252c49;
+    margin: 25px auto 0;
+    width: 60px;
+    height: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+    #spooky #body #mouth {
+     content: '';
+    display: block;
+    background: #ffffff;
+    margin-left: 20px;
+    width: 10px;
+    height: 10px;
+    }
+
+    #spooky #bofy #feet {
+    position: absolute;
+    display: flex;
+    bottom: -18px;
+
+    }
+
